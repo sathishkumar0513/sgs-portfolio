@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" fill="none">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#252523"/><stop offset="1" stop-color="#080909"/></linearGradient><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#FFD84D"/><stop offset="1" stop-color="#D99A00"/></linearGradient><radialGradient id="glow"><stop stop-color="#D99A00" stop-opacity=".24"/><stop offset="1" stop-color="#D99A00" stop-opacity="0"/></radialGradient></defs>
+  <path fill="url(#bg)" d="M0 0h880v620H0z"/><ellipse cx="490" cy="220" rx="330" ry="260" fill="url(#glow)"/>
+  <path d="M162 384h385V218H162z" fill="#202221" stroke="url(#gold)" stroke-width="8" transform="rotate(-12 162 384)"/><path d="m189 284 344-74m-335 107 344-74m-335 107 344-74" stroke="#7B8282" stroke-width="5"/>
+  <path d="M544 382v-98l43-76h108l82 80v94H544z" fill="#181A1A" stroke="url(#gold)" stroke-width="8"/><path d="m601 222-31 61h81v-61zm74 0v61h79l-61-61z" fill="#61696A" stroke="#F5B800" stroke-width="4"/>
+  <path d="M127 383h657v38H127z" fill="#292C2B" stroke="#8A8F98" stroke-width="4"/>
+  <g fill="#090A0A" stroke="#92999A" stroke-width="9"><circle cx="238" cy="423" r="37"/><circle cx="455" cy="423" r="37"/><circle cx="650" cy="423" r="37"/></g><g fill="#D99A00"><circle cx="238" cy="423" r="13"/><circle cx="455" cy="423" r="13"/><circle cx="650" cy="423" r="13"/></g>
+  <path d="M114 472h652" stroke="#F5B800" stroke-opacity=".55" stroke-width="2"/><text x="56" y="550" fill="#F5B800" font-family="Arial,sans-serif" font-size="19" letter-spacing="6">TIPPER • READY FOR THE HEAVY WORK</text>
+</svg>

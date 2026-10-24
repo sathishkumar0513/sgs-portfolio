@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" fill="none">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#252523"/><stop offset="1" stop-color="#080909"/></linearGradient><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#FFD84D"/><stop offset="1" stop-color="#D99A00"/></linearGradient><radialGradient id="glow"><stop stop-color="#D99A00" stop-opacity=".25"/><stop offset="1" stop-color="#D99A00" stop-opacity="0"/></radialGradient></defs>
+  <path fill="url(#bg)" d="M0 0h880v620H0z"/><ellipse cx="470" cy="240" rx="360" ry="280" fill="url(#glow)"/>
+  <path d="M152 375V251h388v124" stroke="url(#gold)" stroke-width="9"/><path d="M176 270h342m-342 35h342m-342 35h342" stroke="#778080" stroke-width="5"/><path d="M540 375v-91l43-72h110l80 78v85H540z" fill="#191B1B" stroke="url(#gold)" stroke-width="8"/><path d="m600 218-30 61h79v-61zm73 0v61h77l-60-61z" fill="#61696A" stroke="#F5B800" stroke-width="4"/>
+  <path d="M129 376h655v42H129z" fill="#292C2B" stroke="#8A8F98" stroke-width="4"/><g fill="#090A0A" stroke="#92999A" stroke-width="9"><circle cx="244" cy="420" r="37"/><circle cx="451" cy="420" r="37"/><circle cx="648" cy="420" r="37"/></g><g fill="#D99A00"><circle cx="244" cy="420" r="13"/><circle cx="451" cy="420" r="13"/><circle cx="648" cy="420" r="13"/></g>
+  <path d="M114 472h652" stroke="#F5B800" stroke-opacity=".55" stroke-width="2"/><text x="56" y="550" fill="#F5B800" font-family="Arial,sans-serif" font-size="19" letter-spacing="6">OPEN BODY • MADE TO MEASURE</text>
+</svg>

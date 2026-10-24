@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" fill="none">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#252523"/><stop offset="1" stop-color="#080909"/></linearGradient><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#FFD84D"/><stop offset="1" stop-color="#D99A00"/></linearGradient><radialGradient id="glow"><stop stop-color="#D99A00" stop-opacity=".25"/><stop offset="1" stop-color="#D99A00" stop-opacity="0"/></radialGradient></defs>
+  <path fill="url(#bg)" d="M0 0h880v620H0z"/><ellipse cx="460" cy="255" rx="350" ry="285" fill="url(#glow)"/>
+  <path d="M159 365h397V225H159z" fill="#1B1D1D" stroke="url(#gold)" stroke-width="8"/><path d="M180 250h355M180 284h355M180 318h355" stroke="#787E7E" stroke-width="5"/><path d="m362 218 33 25-20 28 39 21-28 39" stroke="#F5B800" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M556 374v-93l43-71h102l78 78v86H556z" fill="#191B1B" stroke="url(#gold)" stroke-width="8"/><path d="m609 219-29 60h79v-60zm72 0v60h76l-60-60z" fill="#61696A" stroke="#F5B800" stroke-width="4"/>
+  <path d="M140 375h646v42H140z" fill="#292C2B" stroke="#8A8F98" stroke-width="4"/>
+  <g fill="#090A0A" stroke="#92999A" stroke-width="9"><circle cx="251" cy="419" r="37"/><circle cx="472" cy="419" r="37"/><circle cx="658" cy="419" r="37"/></g><g fill="#D99A00"><circle cx="251" cy="419" r="13"/><circle cx="472" cy="419" r="13"/><circle cx="658" cy="419" r="13"/></g>
+  <path d="M114 472h652" stroke="#F5B800" stroke-opacity=".55" stroke-width="2"/><text x="56" y="550" fill="#F5B800" font-family="Arial,sans-serif" font-size="19" letter-spacing="6">REPAIR • RESTORED FOR THE ROAD</text>
+</svg>

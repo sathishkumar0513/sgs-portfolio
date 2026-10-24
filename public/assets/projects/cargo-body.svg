@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 620" fill="none">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#252523"/><stop offset="1" stop-color="#080909"/></linearGradient><linearGradient id="gold" x2="0" y2="1"><stop stop-color="#FFD84D"/><stop offset="1" stop-color="#D99A00"/></linearGradient><radialGradient id="glow"><stop stop-color="#D99A00" stop-opacity=".28"/><stop offset="1" stop-color="#D99A00" stop-opacity="0"/></radialGradient></defs>
+  <path fill="url(#bg)" d="M0 0h880v620H0z"/><ellipse cx="540" cy="250" rx="360" ry="280" fill="url(#glow)"/>
+  <path stroke="#F5B800" stroke-opacity=".24" d="M0 510h880M0 535h880M0 560h880"/>
+  <path d="M145 378h396V222H145z" fill="#191B1B" stroke="url(#gold)" stroke-width="8"/><path d="M164 247h357M164 279h357M164 311h357M164 343h357" stroke="#777D7E" stroke-width="5"/>
+  <path d="M541 378V280l42-73h119l81 77v94H541z" fill="#181A1A" stroke="url(#gold)" stroke-width="8"/><path d="m600 221-31 60h80v-60zm73 0v60h81l-62-60z" fill="#61696A" stroke="#F5B800" stroke-width="4"/>
+  <path d="M145 378h638v40H145z" fill="#292C2B" stroke="#8A8F98" stroke-width="4"/>
+  <g fill="#0A0A0A" stroke="#92999A" stroke-width="9"><circle cx="250" cy="420" r="37"/><circle cx="462" cy="420" r="37"/><circle cx="650" cy="420" r="37"/></g><g fill="#D99A00"><circle cx="250" cy="420" r="13"/><circle cx="462" cy="420" r="13"/><circle cx="650" cy="420" r="13"/></g>
+  <path d="M114 472h652" stroke="#F5B800" stroke-opacity=".55" stroke-width="2"/><text x="56" y="550" fill="#F5B800" font-family="Arial,sans-serif" font-size="19" letter-spacing="6">NEW BODY • BUILT FOR THE LONG HAUL</text>
+</svg>
