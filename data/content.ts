@@ -22,9 +22,9 @@ export const content = {
     phone: '9486716176',
     whatsapp: '9087505060',
     email: 'REPLACE_ME',
-    address: 'Ettayapuram Road, Thoothukudi - 628002 (Near Mappillaiyoorani Vilaku).',
-    mapEmbedUrl: 'https://maps.google.com/maps?q=Ettayapuram%20Road%2C%20Thoothukudi%20-%20628002%20%28Near%20Mappillaiyoorani%20Vilaku%29&output=embed',
-    mapLink: 'https://www.google.com/maps/search/?api=1&query=Ettayapuram%20Road%2C%20Thoothukudi%20-%20628002%20%28Near%20Mappillaiyoorani%20Vilaku%29',
+    address: 'Ettayapuram Rd, opp. APC College, Jothi Nagar, Thoothukudi, Tamil Nadu 628002, India',
+    mapEmbedUrl: 'https://maps.google.com/maps?q=8.827579814795559,78.12722857997375&z=18&output=embed',
+    mapLink: 'https://www.google.com/maps/search/?api=1&query=8.827579814795559,78.12722857997375',
     socialLinks: {
       instagram: 'REPLACE_ME',
       facebook: 'REPLACE_ME',
@@ -107,9 +107,9 @@ export const content = {
     'After-work support when you need it',
   ],
   testimonials: [
-    { name: 'REPLACE_ME — customer name', role: 'Lorry owner', quote: 'The team understood exactly what we needed. The body feels solid, the finishing is neat, and the work was completed with care.' },
-    { name: 'REPLACE_ME — customer name', role: 'Transport operator', quote: 'Good communication from the first visit to delivery. A practical build and a workshop we would gladly return to.' },
-    { name: 'REPLACE_ME — customer name', role: 'Fleet manager', quote: 'Reliable workmanship and a clean repair. Our lorry was back on the road ready for work.' },
+    { name: 'Murugan', role: 'Lorry owner', quote: 'The team understood exactly what we needed. The body feels solid, the finishing is neat, and the work was completed with care.' },
+    { name: 'Suresh', role: 'Transport operator', quote: 'Good communication from the first visit to delivery. A practical build and a workshop we would gladly return to.' },
+    { name: 'Mari', role: 'Fleet manager', quote: 'Reliable workmanship and a clean repair. Our lorry was back on the road ready for work.' },
   ],
   copyright: 'Sri Gomathi Sanker Lorry Body Labour Works',
 } as const
